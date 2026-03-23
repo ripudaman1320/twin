@@ -1,0 +1,21 @@
+{
+    "full_name": "Ripudaman Singh",
+    "name": "Ripu",
+    "current_role": "Data Scientist",
+    "location": "Sydney",
+    "email": "ripudaman@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/ripudaman-s-ab8342165/",
+    "specialties": [
+      "AI Engineering",
+      "DevOps/MLOPs",
+      "ML Engineering"
+    ],
+    "years_experience": 8,
+    "education": [
+      {
+        "degree": "MS in IT",
+        "institution": "University of Technology, Sydney",
+        "year": "2024"
+      }
+    ]
+  }
